@@ -1,0 +1,6 @@
+com\example\bajajtest\dto\FinalQueryRequest.class
+com\example\bajajtest\service\WebhookStartupRunner.class
+com\example\bajajtest\config\RestTemplateConfig.class
+com\example\bajajtest\dto\GenerateWebhookRequest.class
+com\example\bajajtest\dto\GenerateWebhookResponse.class
+com\example\bajajtest\BajajtestApplication.class
